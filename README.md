@@ -12,6 +12,7 @@ Olá! ✨ Esse é o desafio para testar tudo o que foi aprendido sobre o Git e G
    [x] Criar conta principal;
    
    [x] Criar conta secundária para colaboração;
+   
 
 3. **Criar um repositório:**
 
@@ -22,6 +23,7 @@ Olá! ✨ Esse é o desafio para testar tudo o que foi aprendido sobre o Git e G
    [ ] Utilizar o Github.dev para editar o projeto diretamente com o editor web do Github;
    
    [x] Lembre-se: o repositório deve ser público.
+   
 
 5. **Colaboração:**
 
@@ -30,10 +32,17 @@ Olá! ✨ Esse é o desafio para testar tudo o que foi aprendido sobre o Git e G
    [ ] Ambos devem fazer um clone do repositório em suas máquinas locais;
 
    [ ] Realizem alterações, Commits, abra issues e pull requests;
+   
 
 7. **Formatação com Markdown:**
 
    [ ] Edite o arquivo "README.md" em seu repositório.
 
    [ ] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+   
+
+  #### **Obrigada pela oportunidade!**
+   --------
+
+   ![imagem github.](https://i.imgur.com/M9ioMu5.gif)
 
