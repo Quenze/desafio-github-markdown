@@ -3,7 +3,7 @@
 ### >> DESAFIO DE PROJETO <<
 
 
-Olá! ✨ Esse é o desafio para testar tudo o que foi aprendido sobre o Git e GitHub, seus processos de colaboração e a linguagem Markdown, proposto pelo curso da plataforma DIO.
+Olá! ✨ Esse é o desafio proposto para testar tudo o que foi aprendido sobre o Git e GitHub, seus processos de colaboração e a linguagem Markdown, proposto pelo curso da plataforma DIO.
 
 **OBJETIVOS:**
 
