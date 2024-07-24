@@ -14,7 +14,7 @@ Olá! ✨ Esse é o desafio proposto para testar tudo o que foi aprendido sobre 
    [x] Criar conta secundária para colaboração;
    
 
-3. **Criar um repositório:**
+2. **Criar um repositório:**
 
    [x] Criar um novo repositório no GitHub, nomeando-o como "desafio-github-markdown";
    
@@ -25,7 +25,7 @@ Olá! ✨ Esse é o desafio proposto para testar tudo o que foi aprendido sobre 
    [x] Lembre-se: o repositório deve ser público.
    
 
-5. **Colaboração:**
+3. **Colaboração:**
 
    [x] Adicionar um colaborador ao seu repositório (sou eu mesma em outra conta);
 
@@ -34,11 +34,24 @@ Olá! ✨ Esse é o desafio proposto para testar tudo o que foi aprendido sobre 
    [ ] Realizem alterações, Commits, abra issues e pull requests;
    
 
-7. **Formatação com Markdown:**
+4. **Formatação com Markdown:**
 
    [x] Edite o arquivo "README.md" em seu repositório.
 
-   [x] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+   [ ] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+
+   ---
+
+  ### **GOALS OF CHALENGE** 
+  
+| Goals | Status |
+| --- | --- |
+| Criar sua conta no Github | *`Completed`* |
+| Criar um repositório | *`Completed`* |
+| Colaboração | *`Incompleted`* |
+| Formatação com Markdown | *`Incompleted`* |
+        
+
    
 
   #### **Obrigada pela oportunidade!**
