@@ -57,5 +57,9 @@ Olá! ✨ Esse é o desafio proposto para testar tudo o que foi aprendido sobre 
   #### **GAME OVER! YOU FINESHED!** 🏆
    --------
 
-   ![imagem github.](https://i.imgur.com/M9ioMu5.gif)
+   <div align="center">
+
+   ![imagem loading complete.](https://i.imgur.com/CxZXwor.gif)
+
+   </div>
 
