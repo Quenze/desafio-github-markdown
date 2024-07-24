@@ -20,7 +20,7 @@ Olá! ✨ Esse é o desafio para testar tudo o que foi aprendido sobre o Git e G
    
    [x] Adicionar o seu README.md ao criar o repositório;
    
-   [ ] Utilizar o Github.dev para editar o projeto diretamente com o editor web do Github;
+   [x] Utilizar o Github.dev para editar o projeto diretamente com o editor web do Github;
    
    [x] Lembre-se: o repositório deve ser público.
    
@@ -36,9 +36,9 @@ Olá! ✨ Esse é o desafio para testar tudo o que foi aprendido sobre o Git e G
 
 7. **Formatação com Markdown:**
 
-   [ ] Edite o arquivo "README.md" em seu repositório.
+   [x] Edite o arquivo "README.md" em seu repositório.
 
-   [ ] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+   [x] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
    
 
   #### **Obrigada pela oportunidade!**
