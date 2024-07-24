@@ -29,32 +29,32 @@ Olá! ✨ Esse é o desafio proposto para testar tudo o que foi aprendido sobre 
 
    [x] Adicionar um colaborador ao seu repositório (sou eu mesma em outra conta);
 
-   [ ] Ambos devem fazer um clone do repositório em suas máquinas locais;
+   [x] Ambos devem fazer um clone do repositório em suas máquinas locais;
 
-   [ ] Realizem alterações, Commits, abra issues e pull requests;
+   [x] Realizem alterações, Commits, abra issues e pull requests;
    
 
 4. **Formatação com Markdown:**
 
    [x] Edite o arquivo "README.md" em seu repositório.
 
-   [ ] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+   [x] Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
 
    ---
 
-  ### **GOALS OF CHALENGE** 
+  ## **GOALS OF CHALENGE** 
   
 | Goals | Status |
 | --- | --- |
 | Criar sua conta no Github | *`Completed`* |
 | Criar um repositório | *`Completed`* |
-| Colaboração | *`Incompleted`* |
-| Formatação com Markdown | *`Incompleted`* |
+| Colaboração | *`Completed`* |
+| Formatação com Markdown | *`Completed`* |
         
 
    
 
-  #### **Obrigada pela oportunidade!**
+  #### **GAME OVER! YOU FINESHED!** 🏆
    --------
 
    ![imagem github.](https://i.imgur.com/M9ioMu5.gif)
