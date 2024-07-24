@@ -27,7 +27,7 @@ Olá! ✨ Esse é o desafio proposto para testar tudo o que foi aprendido sobre 
 
 5. **Colaboração:**
 
-   [ ] Adicionar um colaborador ao seu repositório (sou eu mesma em outra conta);
+   [x] Adicionar um colaborador ao seu repositório (sou eu mesma em outra conta);
 
    [ ] Ambos devem fazer um clone do repositório em suas máquinas locais;
 
